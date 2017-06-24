@@ -1,8 +1,8 @@
-tex.tiles.iron_ore=/tiles/iron_ore.png
-tex.items.iron_ingot=/items/iron_ingot.png
-tex.items.iron_cluster=/items/iron_cluster.png
-tex.items.iron_grit=/items/iron_grit.png
-
-
+tex.ore_overlay=/tiles/ore_overlay.png
+tex.cluster_underlay=/items/cluster_underlay.png
+tex.cluster_overlay=/items/cluster_overlay.png
+tex.grit=/items/grit.png
+tex.ingot=/items/ingot.png
+tex.diamond=/items/diamond.png
 
 loc.us_english=/loc/us_english.loc

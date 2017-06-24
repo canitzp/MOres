@@ -20,7 +20,6 @@ public class OreWorldGen extends WorldGenOre{
         this.prio = prio;
     }
 
-
     @Override
     public int getHighestGridPos() {
         return this.maxY;
@@ -38,7 +37,7 @@ public class OreWorldGen extends WorldGenOre{
 
     @Override
     public int getClusterRadiusY() {
-        return this.veinSize / 4;
+        return this.veinSize >= 4 ? this.veinSize / 4 : this.veinSize;
     }
 
     @Override
@@ -54,5 +53,10 @@ public class OreWorldGen extends WorldGenOre{
     @Override
     public int getPriority() {
         return this.prio;
+    }
+
+    @Override
+    public int getLowestGridPos() {
+        return this.minY;
     }
 }
