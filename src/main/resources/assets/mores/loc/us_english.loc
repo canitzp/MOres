@@ -1,4 +1,8 @@
-mores/item.iron_ore=Iron Ore
-mores/item.iron_ingot=Iron Ingot
-mores/item.iron_cluster=Iron Cluster
-mores/item.iron_grit=Iron Grit
+mores/material.ore=Ore
+mores/material.grit=Grit
+mores/material.cluster=Cluster
+mores/material.ingot=Ingot
+mores/material.gem=Gem
+
+mores/material.iron=Iron
+mores/material.diamond=Diamond

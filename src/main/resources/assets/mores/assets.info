@@ -1,6 +1,9 @@
 tex.ore_overlay=/tiles/ore_overlay.png
 tex.cluster_underlay=/items/cluster_underlay.png
 tex.cluster_overlay=/items/cluster_overlay.png
+tex.head_pickaxe=/items/head_pickaxe.png
+tex.handle_pickaxe=/items/handle_pickaxe.png
+tex.rod_pickaxe=/items/rod_pickaxe.png
 tex.grit=/items/grit.png
 tex.ingot=/items/ingot.png
 tex.diamond=/items/diamond.png
